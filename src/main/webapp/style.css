@@ -1,0 +1,52 @@
+
+body {
+    background-color: rgb(115, 128, 186)
+}
+
+.container-round-box {
+    border: 1px solid gray;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 2px 2px 2px gray;
+    margin: 0 auto;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    text-align: center;
+}
+
+.container-round-box-inner {
+    display: inline-block;
+}
+
+.input-round {
+    width: 200px;
+    height: 20px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 2px 2px 2px gray;
+    margin: 5px;
+}
+
+.titls-common{
+    text-align: center;
+    color: black;
+}
+
+.input-button {
+    color: white;
+    width: 100px;
+    height: 35px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    background-color: rgb(128, 89, 218);
+    box-shadow: 2px 2px 2px gray;
+    margin-top: 10px;
+}
+
+.input-box-title-common {
+    margin: 0px;
+    margin-top: 10px;
+}
+
